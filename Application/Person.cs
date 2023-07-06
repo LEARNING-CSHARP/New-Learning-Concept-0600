@@ -1,5 +1,22 @@
-﻿//namespace Application
+﻿// **************************************************
+//namespace Application
 //{
+//	public class Person
+//	{
+//		public int Age;
+//		public string FullName;
+
+//		public void ShowInformation()
+//		{
+//			System.Console.WriteLine($"Full Name: {FullName}, Age: {Age}");
+//		}
+//	}
+//}
+// **************************************************
+
+// **************************************************
+//namespace Application;
+
 //public class Person
 //{
 //	public int Age;
@@ -7,11 +24,18 @@
 
 //	public void ShowInformation()
 //	{
-//		System.Console.WriteLine($"Full Name: {FullName}, Age: {Age}");
+//		//System.Console.WriteLine($"Full Name: {FullName}, Age: {Age}");
+
+//		//System.Console.WriteLine(value: $"Full Name: {FullName}, Age: {Age}");
+
+//		System.Console.WriteLine(value:
+//			$"Full Name: {FullName}, Age: {Age}");
 //	}
 //}
+// **************************************************
 
-
+// **************************************************
+//namespace Application;
 
 //public class Person
 //{
@@ -28,11 +52,14 @@
 
 //	public void ShowInformation()
 //	{
-//		System.Console.WriteLine($"Full Name: {FullName}, Age: {Age}");
+//		System.Console.WriteLine(value:
+//			$"Full Name: {FullName}, Age: {Age}");
 //	}
 //}
+// **************************************************
 
-
+// **************************************************
+//namespace Application;
 
 //public class Person
 //{
@@ -52,11 +79,14 @@
 
 //	public void ShowInformation()
 //	{
-//		System.Console.WriteLine($"Full Name: {FullName}, Age: {Age}");
+//		System.Console.WriteLine(value:
+//			$"Full Name: {FullName}, Age: {Age}");
 //	}
 //}
+// **************************************************
 
-
+// **************************************************
+//namespace Application;
 
 //public class Person
 //{
@@ -73,11 +103,14 @@
 
 //	public void ShowInformation()
 //	{
-//		System.Console.WriteLine($"Full Name: {FullName}, Age: {Age}");
+//		System.Console.WriteLine(value:
+//			$"Full Name: {FullName}, Age: {Age}");
 //	}
 //}
+// **************************************************
 
-
+// **************************************************
+//namespace Application;
 
 //public class Person
 //{
@@ -91,11 +124,14 @@
 
 //	public void ShowInformation()
 //	{
-//		System.Console.WriteLine($"Full Name: {FullName}, Age: {Age}");
+//		System.Console.WriteLine(value:
+//			$"Full Name: {FullName}, Age: {Age}");
 //	}
 //}
+// **************************************************
 
-
+// **************************************************
+//namespace Application;
 
 ///// <summary>
 ///// نگاه ذیل دیگر عرف نیست
@@ -129,36 +165,13 @@
 
 //	public void ShowInformation()
 //	{
-//		System.Console.WriteLine($"Full Name: {FullName}, Age: {Age}");
+//		System.Console.WriteLine(value:
+//			$"Full Name: {FullName}, Age: {Age}");
 //	}
 //}
-//}
+// **************************************************
 
-//namespace Application;
-
-//public class Person
-//{
-//	public Person()
-//	{
-//		Age = 20;
-//		FullName = string.Empty;
-//	}
-
-//	public int Age;
-
-//	public string FullName;
-
-//	public void ShowInformation()
-//	{
-//		//System.Console.WriteLine($"Full Name: {FullName}, Age: {Age}");
-
-//		//System.Console.WriteLine(value: $"Full Name: {FullName}, Age: {Age}");
-
-//		System.Console.WriteLine
-//			(value: $"Full Name: {FullName}, Age: {Age}");
-//	}
-//}
-
+// **************************************************
 namespace Application;
 
 /// <summary>
@@ -194,3 +207,4 @@ public class Person
 			(value: $"Full Name: {FullName}, Age: {Age}");
 	}
 }
+// **************************************************
